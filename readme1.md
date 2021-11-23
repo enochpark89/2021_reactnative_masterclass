@@ -138,3 +138,21 @@ npx react-native init AwesomeProject
 3. Expo can't access the Android and iOS files.
 
 
+# 2.0 Introduction
+
+IMDb app that show smovie data
+
+What we will learn by making this app:
+
+- Navigations
+- Css
+- Scrollview
+- RefreshControl
+- FlatList
+
+React Query - library to access APIs.
+
+Steps:
+
+1. create-react-native app
+2. 
